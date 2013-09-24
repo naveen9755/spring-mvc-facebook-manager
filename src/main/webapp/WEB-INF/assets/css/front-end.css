@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+/* CSS Document */
+BODY {font:normal 12px Arial, Sans-Serif;background:#fff;color:#333;margin:0;padding:10px}
+
+#wrapper {width:995px; margin:0 auto;}
+
+.floatLeft {float:left}
+.floatRight {float:right}
+
+#header {}
+#headerLeft {float:left}
+#headerRight {float:right;background:#f1f1f1;width:800px;height:90px}
+
+#body {float:left;width:750px;margin:20px 0;min-height:300px}
+#body H1 {margin:0 0 20px 0;color:dodgerblue}
+#right {float:right;width:180px;background:#f1f1f1;margin:20px 0;min-height:300px}

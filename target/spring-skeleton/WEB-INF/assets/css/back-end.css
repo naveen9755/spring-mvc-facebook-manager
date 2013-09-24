@@ -1,0 +1,117 @@
+@charset "UTF-8";
+/* CSS Document */
+
+BODY {font-family:Arial;background-color: #f7f7f7;padding:40px 20px 0 20px}
+
+#breadcrump {width:100%;margin:0;padding:5px 0 0 0;height:35px;overflow:hidden}
+
+#breadcrump H3 {color:#666;font-size:16px;font-weight:bold;margin:4px 0 0 0}
+#breadcrump H3 A {color:#777;text-decoration:none}
+#breadcrump H3 A:hover {color:#777;text-decoration:underline}
+
+H4 {margin:15px 0 4px 0;padding:0;font-size:20px;font-weight:normal;color:#f2c50f}
+HR {margin:5px 0 10px 0;padding:0}
+
+A:focus { outline: none}
+A:hover {text-decoration:underline}
+
+FORM {margin:0}
+LABEL {cursor:pointer;display:inline}
+INPUT[type="checkbox"] {margin-bottom:5px}
+
+TABLE.width100p {width:100%}
+TABLE TD, TABLE TR {vertical-align:middle;font-size:12px}
+TABLE TD.tdright {text-align:right}
+TABLE TD.tdmiddle, TABLE TH.thmiddle {text-align:center}
+TABLE TH.thright {text-align:right}
+
+TD.wraplabel LABEL {margin: 0 30px 0 10px}
+TD.wraplabel {padding-bottom:2px}
+TD.smallselects SELECT {width:120px}
+TD.miniselects SELECT, SELECT.width60 {width:60px}
+TEXTAREA {resize: none}
+
+.floatLeft {float:left}
+.floatRight {float:right}
+.none {display:none}
+.inline {display:inline}
+.help {cursor:help}
+.bold {font-weight:bold}
+.nobold {font-weight:normal}
+.red {color:red}
+.gray {color:#a0a0a0}
+.green {color:#057e25}
+.black {color:#000}
+
+.font11, A.font11, TABLE.font11 TD LABEL,  TABLE.font11 TD INPUT {font-size:11px}
+.font12, A.font12 {font-size:12px}
+.font14, A.font14 {font-size:14px}
+.font16, A.font16 {font-size:16px}
+.font18, A.font18 {font-size:18px}
+
+
+.mtop0 {margin-top:0px}
+.mtop1 {margin-top:1px}
+.mtop2 {margin-top:2px}
+.mtop3 {margin-top:3px}
+.mtop4 {margin-top:4px}
+.mtop5 {margin-top:5px}
+.mtop10 {margin-top:10px}
+.mleft10 {margin-left:10px}
+.mleft20 {margin-left:20px}
+.mright10 {margin-right:10px}
+.mright20 {margin-right:20px}
+.mbottom5 {margin-bottom:5px}
+.mbottom10 {margin-bottom:10px}
+
+.ptop2, TABLE TD.ptop2 {padding-top:2px}
+.ptop8, TABLE TD.ptop8 {padding-top:8px}
+.ptop10, TABLE TD.ptop10 {padding-top:10px}
+.ptop20, TABLE TD.ptop20 {padding-top:20px}
+.pleft20, TABLE TD.pleft20, TABLE TH.pleft20 {padding-left:20px}
+.pleft30, TABLE TD.pleft30, TABLE TH.pleft30 {padding-left:30px}
+.pleft40, TABLE TD.pleft40, TABLE TH.pleft40 {padding-left:40px}
+.prightr2 {padding-right:2px}
+.pright20, TABLE TD.pright20,  TABLE TH.pright20 {padding-right:20px}
+.pright40, TABLE TD.pright40,  TABLE TH.pright40 {padding-right:40px}
+.pbottom5, TABLE TD.pbottom5 {padding-bottom:5px}
+.pbottom10 {padding-bottom:10px}
+
+
+.five {height:5px}
+.ten {height:10px}
+.twenty {height:20px}
+
+.width50, TABLE TD.width50, TABLE TH.width50 {width:50px}
+.width100, TABLE TD.width100, TABLE TH.width100 {width:100px}
+.width120, TABLE TD.width120, TABLE TH.width120 {width:120px}
+.width150, TABLE TD.width150, TABLE TH.width150 {width:150px}
+.width170, TABLE TD.width170, TABLE TH.width170 {width:170px}
+.width200,  TD.width200, TABLE TH.width200 {width:200px}
+.width250,  TD.width250, TABLE TH.width250 {width:250px}
+.width300, TABLE TD.width300, TABLE TH.width300 {width:300px}
+.width350, TABLE TD.width350, TABLE TH.width350 {width:350px}
+.width400, TABLE TD.width400, TABLE TH.width400 {width:400px}
+.width450, TABLE TD.width450, TABLE TH.width450 {width:450px}
+.width500, TABLE TD.width500, TABLE TH.width500 {width:500px}
+
+#preview {position:absolute; border:1px solid #ccc; background:#333; padding:5px; display:none;color:#fff}
+#preview .title {color:#fff;margin:5px 0 0 0;display:block;font-size:12px}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
