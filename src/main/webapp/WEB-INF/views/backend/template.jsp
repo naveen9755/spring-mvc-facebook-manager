@@ -33,8 +33,7 @@
                 <a class="brand" href="${contextPath}/admin"><span class="font18">Back-end Spring MVC</span></a>
                 <div class="nav-collapse collapse mtop1">
                     <p class="navbar-text pull-right">
-                        Witaj Przemysław Godlewski!&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="javascript:void(0)" class="navbar-link" onclick="if(confirm('Czy na pewno chcesz się wylogować?')) document.location.href='/admin/logout'" title="wyloguj">wyloguj</a>
+                        Nie jesteś zalogowany!&nbsp;&nbsp;&nbsp;&nbsp;
                     </p>
 
                     <ul class="nav">
